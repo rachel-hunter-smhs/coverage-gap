@@ -1,0 +1,9 @@
+measure,coverage_status,share_pct
+Say affording health care is difficult,Uninsured,82
+Say affording health care is difficult,Insured,42
+Had problems paying for health care,Uninsured,59
+Had problems paying for health care,Insured,30
+Have medical debt (strict definition),Uninsured,34
+Have medical debt (strict definition),Insured,26
+Have health care debt (broad definition),Uninsured,62
+Have health care debt (broad definition),Insured,44

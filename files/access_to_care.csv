@@ -1,0 +1,7 @@
+measure,coverage_status,share_pct
+Did not see a doctor in past 12 months,Uninsured,46.2
+Did not see a doctor in past 12 months,Private coverage,14.7
+Did not see a doctor in past 12 months,Public coverage,12.8
+Delayed/skipped care due to cost,Uninsured,38.6
+Delayed/skipped care due to cost,Private coverage,17.0
+Delayed/skipped care due to cost,Public coverage,18.8
